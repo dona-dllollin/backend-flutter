@@ -5,7 +5,7 @@ import {v4 as uuid} from "uuid";
 // registrasi proses
 
 const registrasi = async (req, res) => {
-    const {username, password} = req.body;
+    const {username, password, noHp} = req.body;
 
     try {
         const duplikat = await User.findOne({username});
@@ -21,7 +21,10 @@ const registrasi = async (req, res) => {
     
         const newUser = new User({
             username,
-            password: hashPassword
+            password: hashPassword,
+            noHp,
+            
+
         })
     
         await newUser.save()
@@ -38,7 +41,6 @@ const registrasi = async (req, res) => {
 
 
 // login proses
-
 const login = async(req, res) => {
     const {username, password} = req.body;
 
@@ -65,6 +67,23 @@ const login = async(req, res) => {
 
 }
 
+// get data user
+const get = async (req, res) => {
+    
+
+    try {
+        
+        const user = await User.findOne({ username: req.user.username }, 'username noHp gambar');
+        if (!user) return res.status(400).send('user tidak ditemukan');
+
+        res.status(200).json(user);
+    } catch (error) {
+        console.log('error', error);
+        return res.status(500).send(`server error: ${error}`)
+    }
+}
+
+
 const logout = async (req, res) => {
     
 
@@ -84,6 +103,7 @@ const logout = async (req, res) => {
 export default {
     registrasi,
     login,
-    logout
+    logout,
+    get
 }
 

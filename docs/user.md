@@ -58,6 +58,28 @@ Response Body Error :
 }
 ```
 
+## Get Data User
+
+Endpoint : GET /api/user
+
+Headers :
+
+- Authorization : token
+
+Response Body Success :
+
+```json
+{}
+```
+
+Response Body Error :
+
+```json
+{
+  "errors": "Unauthorized"
+}
+```
+
 ## Logout User API
 
 Endpoint : DELETE /api/auth/logout
@@ -70,7 +92,8 @@ Response Body Success :
 
 ```json
 {
-  "data": "oke"
+  "username": "naili",
+  "noHp": "086213231"
 }
 ```
 

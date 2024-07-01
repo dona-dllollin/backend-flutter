@@ -41,6 +41,7 @@ router.use(authMiddleware);
 
 // user logout
 router.delete('/api/auth/logout', userController.logout)
+router.get('/api/user', userController.get)
 
 // Update Order
 router.put('/api/order/:id', orderController.updateStatus)
