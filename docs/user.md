@@ -69,7 +69,10 @@ Headers :
 Response Body Success :
 
 ```json
-{}
+{
+  "username": "naili",
+  "noHp": "086213231"
+}
 ```
 
 Response Body Error :
@@ -92,8 +95,7 @@ Response Body Success :
 
 ```json
 {
-  "username": "naili",
-  "noHp": "086213231"
+  "msg": "oke"
 }
 ```
 
