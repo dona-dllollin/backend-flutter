@@ -57,6 +57,10 @@ Response Body Error :
 
 Endpoint : GET /api/order
 
+Query :
+status = proses
+status = selesai
+
 Response Body Success :
 
 ```json
