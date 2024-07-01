@@ -9,6 +9,7 @@ Request Body :
 ```json
 {
   "namaPemesan": "dona",
+  "noMeja": "10",
   "items": [
     {
       "nama": "nasi goreng",
