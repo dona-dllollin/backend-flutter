@@ -34,7 +34,7 @@ const OrderSchema = new mongoose.Schema({
     status: {
         type: String,
         enum: ["unpaid", "proses", "selesai"],
-        default: "unpaid"
+        default: "proses"
 
     }
 });

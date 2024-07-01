@@ -42,7 +42,7 @@ Response Body Success :
       "quantity": 3
     }
   ],
-  "status": "unpaid",
+  "status": "proses",
   "totalHarga": 70000
 }
 ```
@@ -132,7 +132,7 @@ Request Body :
 
 ```json
 {
-  "status": "proses"
+  "status": "selesai"
 }
 ```
 
