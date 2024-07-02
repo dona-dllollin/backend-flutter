@@ -1,0 +1,596 @@
+[{
+  "_id": {
+    "$oid": "667a704b9d6bcb9dbc1b2dc5"
+  },
+  "namaPemesan": "handoko",
+  "noMeja": 12,
+  "items": [
+    {
+      "nama": "megono",
+      "harga": 3000,
+      "quantity": 2,
+      "total": 6000,
+      "_id": {
+        "$oid": "667a704b9d6bcb9dbc1b2dc6"
+      }
+    },
+    {
+      "nama": "mie goreng",
+      "harga": 12000,
+      "quantity": 3,
+      "total": 36000,
+      "_id": {
+        "$oid": "667a704b9d6bcb9dbc1b2dc7"
+      }
+    }
+  ],
+  "totalHarga": 42000,
+  "status": "proses",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667a70999d6bcb9dbc1b2dcd"
+  },
+  "namaPemesan": "handoko",
+  "noMeja": 12,
+  "items": [
+    {
+      "nama": "burger",
+      "harga": 10000,
+      "quantity": 2,
+      "total": 20000,
+      "_id": {
+        "$oid": "667a70999d6bcb9dbc1b2dce"
+      }
+    },
+    {
+      "nama": "mie goreng",
+      "harga": 12000,
+      "quantity": 3,
+      "total": 36000,
+      "_id": {
+        "$oid": "667a70999d6bcb9dbc1b2dcf"
+      }
+    }
+  ],
+  "totalHarga": 56000,
+  "status": "proses",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667a71c0ee94b5aaeace811b"
+  },
+  "namaPemesan": "handoko",
+  "noMeja": 12,
+  "items": [
+    {
+      "nama": "burger",
+      "harga": 10000,
+      "quantity": 2,
+      "total": 20000,
+      "_id": {
+        "$oid": "667a71c0ee94b5aaeace811c"
+      }
+    },
+    {
+      "nama": "mie goreng",
+      "harga": 12000,
+      "quantity": 3,
+      "total": 36000,
+      "_id": {
+        "$oid": "667a71c0ee94b5aaeace811d"
+      }
+    }
+  ],
+  "totalHarga": 56000,
+  "status": "proses",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667b9a06f62081b928db18ad"
+  },
+  "namaPemesan": "jdjd",
+  "noMeja": "12",
+  "items": [
+    {
+      "nama": "burger",
+      "harga": 10000,
+      "quantity": 4,
+      "total": 40000,
+      "_id": {
+        "$oid": "667b9a06f62081b928db18ae"
+      }
+    }
+  ],
+  "totalHarga": 40000,
+  "status": "proses",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667b9a433ac45e4a8056d050"
+  },
+  "namaPemesan": "jdjd",
+  "noMeja": "12",
+  "items": [
+    {
+      "nama": "burger",
+      "harga": 10000,
+      "quantity": 4,
+      "total": 40000,
+      "_id": {
+        "$oid": "667b9a433ac45e4a8056d051"
+      }
+    }
+  ],
+  "totalHarga": 40000,
+  "status": "proses",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6681645f4709633ab37955e4"
+  },
+  "namaPemesan": "bb",
+  "noMeja": "21",
+  "items": [
+    {
+      "nama": "megono",
+      "harga": 3000,
+      "quantity": 1,
+      "total": 3000,
+      "_id": {
+        "$oid": "6681645f4709633ab37955e5"
+      }
+    }
+  ],
+  "totalHarga": 3000,
+  "status": "proses",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668164f34709633ab37955e9"
+  },
+  "namaPemesan": "w2",
+  "noMeja": "yy",
+  "items": [
+    {
+      "nama": "megono",
+      "harga": 3000,
+      "quantity": 3,
+      "total": 9000,
+      "_id": {
+        "$oid": "668164f34709633ab37955ea"
+      }
+    }
+  ],
+  "totalHarga": 9000,
+  "status": "proses",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668164f44709633ab37955ee"
+  },
+  "namaPemesan": "w2",
+  "noMeja": "yy",
+  "items": [
+    {
+      "nama": "megono",
+      "harga": 3000,
+      "quantity": 3,
+      "total": 9000,
+      "_id": {
+        "$oid": "668164f44709633ab37955ef"
+      }
+    }
+  ],
+  "totalHarga": 9000,
+  "status": "proses",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668164f54709633ab37955f3"
+  },
+  "namaPemesan": "w2",
+  "noMeja": "yy",
+  "items": [
+    {
+      "nama": "megono",
+      "harga": 3000,
+      "quantity": 3,
+      "total": 9000,
+      "_id": {
+        "$oid": "668164f54709633ab37955f4"
+      }
+    }
+  ],
+  "totalHarga": 9000,
+  "status": "proses",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6681684d88c95d8bb16738b9"
+  },
+  "namaPemesan": "sa",
+  "noMeja": "23",
+  "items": [
+    {
+      "nama": "sarimi",
+      "harga": 3000,
+      "quantity": 3,
+      "total": 9000,
+      "_id": {
+        "$oid": "6681684d88c95d8bb16738ba"
+      }
+    }
+  ],
+  "totalHarga": 9000,
+  "status": "proses",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66816b1e88c95d8bb167391f"
+  },
+  "namaPemesan": "bismillah",
+  "noMeja": "55",
+  "items": [
+    {
+      "nama": "sarimi",
+      "harga": 3000,
+      "quantity": 3,
+      "total": 9000,
+      "_id": {
+        "$oid": "66816b1e88c95d8bb1673920"
+      }
+    }
+  ],
+  "totalHarga": 9000,
+  "status": "proses",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668170d988c95d8bb16739a0"
+  },
+  "namaPemesan": "bismillah",
+  "noMeja": "leres",
+  "items": [
+    {
+      "nama": "chiken",
+      "harga": 10000,
+      "quantity": 1,
+      "total": 10000,
+      "_id": {
+        "$oid": "668170d988c95d8bb16739a1"
+      }
+    }
+  ],
+  "totalHarga": 10000,
+  "status": "proses",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668170db88c95d8bb16739a5"
+  },
+  "namaPemesan": "bismillah",
+  "noMeja": "leres",
+  "items": [
+    {
+      "nama": "chiken",
+      "harga": 10000,
+      "quantity": 1,
+      "total": 10000,
+      "_id": {
+        "$oid": "668170db88c95d8bb16739a6"
+      }
+    }
+  ],
+  "totalHarga": 10000,
+  "status": "proses",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6681761988c95d8bb1673a09"
+  },
+  "namaPemesan": "dd",
+  "noMeja": "qq",
+  "items": [
+    {
+      "nama": "chiken",
+      "harga": 10000,
+      "quantity": 1,
+      "total": 10000,
+      "_id": {
+        "$oid": "6681761988c95d8bb1673a0a"
+      }
+    }
+  ],
+  "totalHarga": 10000,
+  "status": "proses",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6681761a88c95d8bb1673a0e"
+  },
+  "namaPemesan": "dd",
+  "noMeja": "qq",
+  "items": [
+    {
+      "nama": "chiken",
+      "harga": 10000,
+      "quantity": 1,
+      "total": 10000,
+      "_id": {
+        "$oid": "6681761a88c95d8bb1673a0f"
+      }
+    }
+  ],
+  "totalHarga": 10000,
+  "status": "unpaid",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6681761d88c95d8bb1673a13"
+  },
+  "namaPemesan": "dd",
+  "noMeja": "qq",
+  "items": [
+    {
+      "nama": "chiken",
+      "harga": 10000,
+      "quantity": 1,
+      "total": 10000,
+      "_id": {
+        "$oid": "6681761d88c95d8bb1673a14"
+      }
+    }
+  ],
+  "totalHarga": 10000,
+  "status": "unpaid",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6681773788c95d8bb1673a3c"
+  },
+  "namaPemesan": "bismi",
+  "noMeja": "llah",
+  "items": [
+    {
+      "nama": "chiken katsu",
+      "harga": 10000,
+      "quantity": 1,
+      "total": 10000,
+      "_id": {
+        "$oid": "6681773788c95d8bb1673a3d"
+      }
+    }
+  ],
+  "totalHarga": 10000,
+  "status": "unpaid",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66818e7088c95d8bb1673a89"
+  },
+  "namaPemesan": "dona",
+  "noMeja": "12",
+  "items": [
+    {
+      "nama": "chiken katsu",
+      "harga": 10000,
+      "quantity": 2,
+      "total": 20000,
+      "_id": {
+        "$oid": "66818e7088c95d8bb1673a8a"
+      }
+    }
+  ],
+  "totalHarga": 20000,
+  "status": "unpaid",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66818eec88c95d8bb1673a98"
+  },
+  "namaPemesan": "uhuy",
+  "noMeja": "ewe",
+  "items": [
+    {
+      "nama": "chiken katsu",
+      "harga": 10000,
+      "quantity": 2,
+      "total": 20000,
+      "_id": {
+        "$oid": "66818eec88c95d8bb1673a99"
+      }
+    }
+  ],
+  "totalHarga": 20000,
+  "status": "unpaid",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66818fc688c95d8bb1673aa7"
+  },
+  "namaPemesan": "bismi",
+  "noMeja": "sa",
+  "items": [
+    {
+      "nama": "chiken katsu",
+      "harga": 10000,
+      "quantity": 3,
+      "total": 30000,
+      "_id": {
+        "$oid": "66818fc688c95d8bb1673aa8"
+      }
+    }
+  ],
+  "totalHarga": 30000,
+  "status": "unpaid",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66818ffc88c95d8bb1673ab2"
+  },
+  "namaPemesan": "coba",
+  "noMeja": "bb",
+  "items": [
+    {
+      "nama": "ayam",
+      "harga": 10000,
+      "quantity": 2,
+      "total": 20000,
+      "_id": {
+        "$oid": "66818ffc88c95d8bb1673ab3"
+      }
+    }
+  ],
+  "totalHarga": 20000,
+  "status": "unpaid",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66819238460d6a7d7efe78b1"
+  },
+  "namaPemesan": "dona",
+  "items": [
+    {
+      "nama": "ayam",
+      "harga": 10000,
+      "quantity": 1,
+      "total": 10000,
+      "_id": {
+        "$oid": "66819238460d6a7d7efe78b2"
+      }
+    }
+  ],
+  "totalHarga": 10000,
+  "status": "unpaid",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6681b2a30313206582d78dca"
+  },
+  "namaPemesan": "dona",
+  "items": [
+    {
+      "nama": "Coffee Latte",
+      "harga": 12000,
+      "quantity": 3,
+      "total": 36000,
+      "_id": {
+        "$oid": "6681b2a30313206582d78dcb"
+      }
+    }
+  ],
+  "totalHarga": 36000,
+  "status": "unpaid",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66821f7b15932a34495fe98a"
+  },
+  "namaPemesan": "Said",
+  "items": [
+    {
+      "nama": " Onion Rings",
+      "harga": 13000,
+      "quantity": 6,
+      "total": 78000,
+      "_id": {
+        "$oid": "66821f7b15932a34495fe98b"
+      }
+    },
+    {
+      "nama": " Mendoan",
+      "harga": 10000,
+      "quantity": 2,
+      "total": 20000,
+      "_id": {
+        "$oid": "66821f7b15932a34495fe98c"
+      }
+    },
+    {
+      "nama": "Lemon tea",
+      "harga": 5000,
+      "quantity": 2,
+      "total": 10000,
+      "_id": {
+        "$oid": "66821f7b15932a34495fe98d"
+      }
+    }
+  ],
+  "totalHarga": 108000,
+  "status": "unpaid",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6682ad9d219d09b54123063b"
+  },
+  "namaPemesan": "dona",
+  "items": [
+    {
+      "nama": "Es Teh",
+      "harga": 3000,
+      "quantity": 5,
+      "total": 15000,
+      "_id": {
+        "$oid": "6682ad9d219d09b54123063c"
+      }
+    }
+  ],
+  "totalHarga": 15000,
+  "status": "proses",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66836a24e198d980efb59508"
+  },
+  "namaPemesan": "dona",
+  "noMeja": "10",
+  "items": [
+    {
+      "nama": "Mie Goreng",
+      "harga": 12000,
+      "quantity": 4,
+      "total": 48000,
+      "_id": {
+        "$oid": "66836a24e198d980efb59509"
+      }
+    },
+    {
+      "nama": "Nasi goreng",
+      "harga": 15000,
+      "quantity": 3,
+      "total": 45000,
+      "_id": {
+        "$oid": "66836a24e198d980efb5950a"
+      }
+    }
+  ],
+  "totalHarga": 93000,
+  "status": "proses",
+  "__v": 0
+}]

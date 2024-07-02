@@ -1,0 +1,412 @@
+[{
+  "_id": {
+    "$oid": "667926cc554c8f960331f275"
+  },
+  "nama": "Ayam Geprek",
+  "harga": 10000,
+  "gambar": "uploads/Ayam_geprek.jpg",
+  "deskripsi": "Ayam geprek murah dan lezat cocok untuk perut lapar. rasanya renyah crispy pedes nampol",
+  "jumlah": 100000,
+  "kategori": [
+    {
+      "$oid": "667a81a1f851510296271912"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667a6f1e9d6bcb9dbc1b2db5"
+  },
+  "nama": "Nasi goreng",
+  "harga": 15000,
+  "gambar": "uploads/nasi_goreng.jpg",
+  "deskripsi": "Nasi goreng murah dan lezat cocok untuk perut lapar. rasanya medok dengan cita rasa bumbu indonesia",
+  "jumlah": 99997,
+  "kategori": [
+    {
+      "$oid": "667a81a1f851510296271912"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667a6f289d6bcb9dbc1b2db8"
+  },
+  "nama": "Mie Rebus",
+  "harga": 10000,
+  "gambar": "uploads/mie_rebus.jpg",
+  "deskripsi": "mie rebus spesial dengan bumbu medok ala jawa gurih dan seger + extra telur",
+  "jumlah": 100000,
+  "kategori": [
+    {
+      "$oid": "667a81a1f851510296271912"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667a6f319d6bcb9dbc1b2dbb"
+  },
+  "nama": "Mie Goreng",
+  "harga": 12000,
+  "gambar": "uploads/mie_goreng.jpg",
+  "deskripsi": "mie goreng spesial dengan bumbu medok ala jawa gurih dan seger + extra telur",
+  "jumlah": 99996,
+  "kategori": [
+    {
+      "$oid": "667a81a1f851510296271912"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667e5fa6bc0103680cba9c6a"
+  },
+  "nama": "Ayam Bakar",
+  "harga": 15000,
+  "gambar": "uploads/ayam_bakar.jpg",
+  "deskripsi": "ayam bakar enak, potongan ayamnya gede bumbunya meresap medok rasa bakaranya juga terasa",
+  "jumlah": 100000,
+  "kategori": [
+    {
+      "$oid": "667a81a1f851510296271912"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667e7d4abc0103680cba9c8b"
+  },
+  "nama": "Ayam Sambel Matah",
+  "harga": 12000,
+  "gambar": "uploads/sambel_matah.jpg",
+  "deskripsi": "Ayam sambel matah yang akan bikin kamu merm melek karena pedes dan segernya tiada tara!!",
+  "jumlah": 100000,
+  "kategori": [
+    {
+      "$oid": "667a81a1f851510296271912"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667e9cffbc0103680cba9c93"
+  },
+  "nama": "Nasi Goreng Jawa",
+  "harga": 15000,
+  "gambar": "uploads/nasi_goreng_jawa.jpg",
+  "deskripsi": "Nasi goreng ala jawa yang memiliki cita rasa tradisional jawa yang menggugah selera anda - anda sekalian, medok banget rasanya",
+  "jumlah": 100000,
+  "kategori": [
+    {
+      "$oid": "667a81a1f851510296271912"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667e9d04bc0103680cba9c97"
+  },
+  "nama": "Nasi Jamur",
+  "harga": 12000,
+  "gambar": "uploads/nasi_jamur.jpg",
+  "deskripsi": "Nasi jamur kekinian dengan topping jamur yang tidak pelit dan tambahan kentang goreng dijamin kenyang",
+  "jumlah": 100000,
+  "kategori": [
+    {
+      "$oid": "667a81a1f851510296271912"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6681a8a30313206582d78d29"
+  },
+  "nama": "Es Teh",
+  "harga": 3000,
+  "gambar": "uploads/IceTea.jpg",
+  "deskripsi": "Es teh Original siap menyegarkan tenggorokan anda!!",
+  "jumlah": 99995,
+  "kategori": [
+    {
+      "$oid": "667a81aff851510296271914"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6681a96e0313206582d78d2f"
+  },
+  "nama": "Americano",
+  "harga": 10000,
+  "gambar": "uploads/americano.jpg",
+  "deskripsi": "kopi americano yang sangat mantap disruput di waktu senja ditemani dengan pisang goreng dan rokok Juara jambu",
+  "jumlah": 100000,
+  "kategori": [
+    {
+      "$oid": "667a81aff851510296271914"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6681a9ae0313206582d78d33"
+  },
+  "nama": "Coffee Latte",
+  "harga": 12000,
+  "gambar": "uploads/latte.jpg",
+  "deskripsi": "coffe latte dengan latte yang sangat tebal manisnya pas tidak lebay",
+  "jumlah": 99997,
+  "kategori": [
+    {
+      "$oid": "667a81aff851510296271914"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6681a9f50313206582d78d37"
+  },
+  "nama": "espresso",
+  "harga": 12000,
+  "gambar": "uploads/espresso.jpg",
+  "deskripsi": "kopi espresso yang sangat pekat cocok untuk para penikmat kopi dan remaja skena indie penghuni  coffeshop",
+  "jumlah": 100000,
+  "kategori": [
+    {
+      "$oid": "667a81aff851510296271914"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6681aa6b0313206582d78d41"
+  },
+  "nama": "Lemon tea",
+  "harga": 5000,
+  "gambar": "uploads/esTeh.jpg",
+  "deskripsi": "lemon tea yang sangat nyegerin perpaduan lemon dan tehnya sangat pas cocok untuk kamu yang lagi haus",
+  "jumlah": 99998,
+  "kategori": [
+    {
+      "$oid": "667a81aff851510296271914"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6681aaa90313206582d78d45"
+  },
+  "nama": "greentea",
+  "harga": 10000,
+  "gambar": "uploads/greentea.jpg",
+  "deskripsi": "greentea minuman kekinian yang sangat enak banget nyegerin dan bikin nagih",
+  "jumlah": 100000,
+  "kategori": [
+    {
+      "$oid": "667a81aff851510296271914"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6681aafe0313206582d78d49"
+  },
+  "nama": "Kopi Susu Aren",
+  "harga": 12000,
+  "gambar": "uploads/kopi_susu_aren.jpg",
+  "deskripsi": "perpaduan antara kopi susu dan gula aren yang sangat masterpiece siap menggempur teggorokan kamu",
+  "jumlah": 100000,
+  "kategori": [
+    {
+      "$oid": "667a81aff851510296271914"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6681ab490313206582d78d4d"
+  },
+  "nama": "Thai Thea",
+  "harga": 10000,
+  "gambar": "uploads/Thai_Thea.jpg",
+  "deskripsi": "teh asalh thailand yang sangat populer yang siap memanjakan lidah anda",
+  "jumlah": 100000,
+  "kategori": [
+    {
+      "$oid": "667a81aff851510296271914"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6681abe60313206582d78d51"
+  },
+  "nama": "Kentang goreng",
+  "harga": 10000,
+  "gambar": "uploads/kentang.jpg",
+  "deskripsi": "suguhan wajib coffe shop bertema industrial dengan penghuni tetap anda skena edgy indie, simpel enak cocok untuk teman ngopi",
+  "jumlah": 100000,
+  "kategori": [
+    {
+      "$oid": "667a81baf851510296271916"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6681ac350313206582d78d55"
+  },
+  "nama": "Jamur Crispy",
+  "harga": 10000,
+  "gambar": "uploads/jamur.jpg",
+  "deskripsi": "terobosan baru didunia percemilan coffeshop yang siap bersanding dengan kentang goreng yang penghuni tetap",
+  "jumlah": 100000,
+  "kategori": [
+    {
+      "$oid": "667a81baf851510296271916"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6681accd0313206582d78d59"
+  },
+  "nama": " Salad",
+  "harga": 15000,
+  "gambar": "uploads/Salad.jpg",
+  "deskripsi": "cocok buat kamu yang vegan dan pecinta animal dan sjw animal defeder",
+  "jumlah": 100000,
+  "kategori": [
+    {
+      "$oid": "667a81baf851510296271916"
+    },
+    {
+      "$oid": "667a81a1f851510296271912"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6681ad150313206582d78d5d"
+  },
+  "nama": " Dumplings",
+  "harga": 12000,
+  "gambar": "uploads/dumplings.jpg",
+  "deskripsi": "jajanan kekinian yang sangat digandrungi kaum the nuruls dan coco dimakan bersama mie gacoan",
+  "jumlah": 100000,
+  "kategori": [
+    {
+      "$oid": "667a81baf851510296271916"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6681ad650313206582d78d61"
+  },
+  "nama": " Mendoan",
+  "harga": 10000,
+  "gambar": "uploads/mendoan.jpg",
+  "deskripsi": "jajanan tradisioal yang harus ada dalam menu coffeshop kamu karena sangat banyak peminatnya khususnya bapak - bapak",
+  "jumlah": 99998,
+  "kategori": [
+    {
+      "$oid": "667a81baf851510296271916"
+    },
+    {
+      "$oid": "667a81a1f851510296271912"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6681adb50313206582d78d65"
+  },
+  "nama": " Onion Rings",
+  "harga": 13000,
+  "gambar": "uploads/Onion_Rings.jpg",
+  "deskripsi": "salah satu cemilan yang sangat populer cocok untuk teman anda bersaintai",
+  "jumlah": 99994,
+  "kategori": [
+    {
+      "$oid": "667a81baf851510296271916"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6681adef0313206582d78d69"
+  },
+  "nama": " Tahu Lada",
+  "harga": 8000,
+  "gambar": "uploads/tahu_lada.jpg",
+  "deskripsi": "makanan wajib dalam per-coffeshop-an karena sangat murah dan simple dan menjadi top tier diantara anak skena",
+  "jumlah": 100000,
+  "kategori": [
+    {
+      "$oid": "667a81baf851510296271916"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6681ae6e0313206582d78d6d"
+  },
+  "nama": " Pisang Goreng",
+  "harga": 10000,
+  "gambar": "uploads/Pisang_Goreng.jpg",
+  "deskripsi": "salah satu cemilan yang paling digandrungi semua kalangan karena sangat cocok dikondisi apapun dan sangat cocok untuk teman ngopi - ngopi",
+  "jumlah": 100000,
+  "kategori": [
+    {
+      "$oid": "667a81baf851510296271916"
+    },
+    {
+      "$oid": "667aebc8c8ca3ce5286a6c12"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6681aeb80313206582d78d71"
+  },
+  "nama": "Croffle",
+  "harga": 13000,
+  "gambar": "uploads/Croffle.jpg",
+  "deskripsi": "makanan paling digandrungi anak muda baik cewek ataupun cowok karena sangat cocok untuk negmil - ngemil santai",
+  "jumlah": 100000,
+  "kategori": [
+    {
+      "$oid": "667a81baf851510296271916"
+    },
+    {
+      "$oid": "667aebc8c8ca3ce5286a6c12"
+    }
+  ],
+  "__v": 0
+}]
