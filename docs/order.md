@@ -13,12 +13,10 @@ Request Body :
   "items": [
     {
       "nama": "nasi goreng",
-      "harga": 10000,
       "quantity": 4
     },
     {
       "nama": "Mie Goreng",
-      "harga": 10000,
       "quantity": 3
     }
   ]
@@ -30,6 +28,7 @@ Response Body Success :
 ```json
 {
   "namaPemesan": "dona",
+  "noMeja": "13",
   "items": [
     {
       "nama": "nasi goreng",
