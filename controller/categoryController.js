@@ -71,9 +71,22 @@ const get = async (req, res) => {
 }
 
 
+const getById = async (req, res) => {
+    try {
+        const {id} =  req.params
+        const kategori = await Category.findById(id)
+        return res.status(200).json(kategori)
+    } catch (error) {
+        console.log(error.massage);
+        res.status(500).send({message: error.message})
+    }
+}
+
+
 export default {
     post,
     get,
     remove,
-    update
+    update,
+    getById
 }

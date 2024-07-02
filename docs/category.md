@@ -49,6 +49,27 @@ Response Body Error :
 
 - send("server error")
 
+## Get Spesific Category
+
+Enpoint : GET /api/kategori/:id
+
+Response Body Success:
+
+```json
+{
+  "nama": "makanan",
+  "gambar": "/uploads/nama_gambar.jpg"
+}
+```
+
+Response Body Error :
+
+```json
+{
+  "message": "error"
+}
+```
+
 ## Create Category API
 
 Endpoint : POST /api/kategori

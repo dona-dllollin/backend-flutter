@@ -20,6 +20,7 @@ router.get('/api/makanan/kategori/:categoryId', foodController.getByCategory)
 
 //route kategori
 router.get('/api/kategori', categoryController.get)
+router.get('/api/kategori/:id', categoryController.getById)
 
 
 
