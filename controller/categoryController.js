@@ -70,7 +70,7 @@ const get = async (req, res) => {
     }
 }
 
-
+//menampilkan spesifik kategori
 const getById = async (req, res) => {
     try {
         const {id} =  req.params
