@@ -18,7 +18,7 @@ Response Body Success :
         "nama": "Nasi goreng",
         "harga": 15000,
         "gambar": "uploads/nasi_goreng.jpg",
-        "deskripsi": "Nasi goreng murah dan lezat cocok untuk perut lapar. rasanya medok dengan cita rasa bumbu indonesia",
+        "deskripsi": "Nasi goreng murah dan lezat cocok     untuk perut lapar. rasanya medok dengan cita rasa bumbu indonesia",
         "jumlah": 100000,
         "kategori": ["667a81a1f851510296271912"],
         "__v": 0

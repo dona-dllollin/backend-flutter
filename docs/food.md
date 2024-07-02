@@ -62,8 +62,7 @@ Response Body Success :
         "_id": "667a81a1f851510296271912",
         "nama": "Makanan"
       }
-    ],
-    "__v": 0
+    ]
   },
 
   {
@@ -78,8 +77,7 @@ Response Body Success :
         "_id": "667a81a1f851510296271912",
         "nama": "Makanan"
       }
-    ],
-    "__v": 0
+    ]
   }
 ]
 ```
